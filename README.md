@@ -17,6 +17,8 @@ The backend is implemented using **FastAPI** and provides endpoints to simulate 
 - Modular and scalable FastAPI architecture
 
 ---
+![WhatsApp Image 2026-03-01 at 1 45 39 PM](https://github.com/user-attachments/assets/8fc518cb-0aa7-4748-98b2-eeb63ce49975)
+
 
 ## 🧪 Physics Model
 
